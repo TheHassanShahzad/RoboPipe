@@ -1,0 +1,10 @@
+[console_scripts]
+arm_control = RoboPipe.arm_control:main
+hello_world = RoboPipe.hello_world:main
+load_arm = RoboPipe.load_arm:main
+move_arm = RoboPipe.move_arm:main
+random_move = RoboPipe.random_move:main
+simple_subscriber = RoboPipe.simple_subscriber:main
+z_publisher = RoboPipe.z_publisher:main
+z_sine = RoboPipe.z_sine:main
+

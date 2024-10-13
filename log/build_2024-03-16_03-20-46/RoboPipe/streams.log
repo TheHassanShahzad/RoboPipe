@@ -1,0 +1,34 @@
+[0.607s] Invoking command in '/home/the_hassan_shahzad/ros2_ws/src/RoboPipe': PYTHONPATH=/home/the_hassan_shahzad/ros2_ws/src/RoboPipe/build/RoboPipe/prefix_override:/home/the_hassan_shahzad/ros2_ws/src/RoboPipe/install/RoboPipe/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/RoboPipe build --build-base /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/build/RoboPipe/build install --record /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/build/RoboPipe/install.log --single-version-externally-managed
+[0.800s] running egg_info
+[0.800s] writing build/RoboPipe/RoboPipe.egg-info/PKG-INFO
+[0.801s] writing dependency_links to build/RoboPipe/RoboPipe.egg-info/dependency_links.txt
+[0.801s] writing entry points to build/RoboPipe/RoboPipe.egg-info/entry_points.txt
+[0.801s] writing requirements to build/RoboPipe/RoboPipe.egg-info/requires.txt
+[0.801s] writing top-level names to build/RoboPipe/RoboPipe.egg-info/top_level.txt
+[0.802s] reading manifest file 'build/RoboPipe/RoboPipe.egg-info/SOURCES.txt'
+[0.803s] writing manifest file 'build/RoboPipe/RoboPipe.egg-info/SOURCES.txt'
+[0.803s] running build
+[0.803s] running build_py
+[0.803s] copying RoboPipe/z_publisher.py -> /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/build/RoboPipe/build/lib/RoboPipe
+[0.803s] copying RoboPipe/tester.py -> /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/build/RoboPipe/build/lib/RoboPipe
+[0.803s] running install
+[0.803s] running install_lib
+[0.804s] copying /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/build/RoboPipe/build/lib/RoboPipe/z_publisher.py -> /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/install/RoboPipe/lib/python3.10/site-packages/RoboPipe
+[0.804s] copying /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/build/RoboPipe/build/lib/RoboPipe/tester.py -> /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/install/RoboPipe/lib/python3.10/site-packages/RoboPipe
+[0.804s] byte-compiling /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/install/RoboPipe/lib/python3.10/site-packages/RoboPipe/z_publisher.py to z_publisher.cpython-310.pyc
+[0.805s] byte-compiling /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/install/RoboPipe/lib/python3.10/site-packages/RoboPipe/tester.py to tester.cpython-310.pyc
+[0.806s] running install_data
+[0.806s] running install_egg_info
+[0.807s] removing '/home/the_hassan_shahzad/ros2_ws/src/RoboPipe/install/RoboPipe/lib/python3.10/site-packages/RoboPipe-0.0.0-py3.10.egg-info' (and everything under it)
+[0.808s] Copying build/RoboPipe/RoboPipe.egg-info to /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/install/RoboPipe/lib/python3.10/site-packages/RoboPipe-0.0.0-py3.10.egg-info
+[0.808s] running install_scripts
+[0.822s] Installing arm_control script to /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/install/RoboPipe/lib/RoboPipe
+[0.822s] Installing hello_world script to /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/install/RoboPipe/lib/RoboPipe
+[0.822s] Installing load_arm script to /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/install/RoboPipe/lib/RoboPipe
+[0.822s] Installing move_arm script to /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/install/RoboPipe/lib/RoboPipe
+[0.822s] Installing random_move script to /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/install/RoboPipe/lib/RoboPipe
+[0.822s] Installing simple_subscriber script to /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/install/RoboPipe/lib/RoboPipe
+[0.823s] Installing z_publisher script to /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/install/RoboPipe/lib/RoboPipe
+[0.823s] Installing z_sine script to /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/install/RoboPipe/lib/RoboPipe
+[0.823s] writing list of installed files to '/home/the_hassan_shahzad/ros2_ws/src/RoboPipe/build/RoboPipe/install.log'
+[0.840s] Invoked command in '/home/the_hassan_shahzad/ros2_ws/src/RoboPipe' returned '0': PYTHONPATH=/home/the_hassan_shahzad/ros2_ws/src/RoboPipe/build/RoboPipe/prefix_override:/home/the_hassan_shahzad/ros2_ws/src/RoboPipe/install/RoboPipe/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/RoboPipe build --build-base /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/build/RoboPipe/build install --record /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/build/RoboPipe/install.log --single-version-externally-managed

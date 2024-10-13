@@ -1,0 +1,59 @@
+running egg_info
+creating build/RoboPipe/RoboPipe.egg-info
+writing build/RoboPipe/RoboPipe.egg-info/PKG-INFO
+writing dependency_links to build/RoboPipe/RoboPipe.egg-info/dependency_links.txt
+writing entry points to build/RoboPipe/RoboPipe.egg-info/entry_points.txt
+writing requirements to build/RoboPipe/RoboPipe.egg-info/requires.txt
+writing top-level names to build/RoboPipe/RoboPipe.egg-info/top_level.txt
+writing manifest file 'build/RoboPipe/RoboPipe.egg-info/SOURCES.txt'
+reading manifest file 'build/RoboPipe/RoboPipe.egg-info/SOURCES.txt'
+writing manifest file 'build/RoboPipe/RoboPipe.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/build/RoboPipe/build
+creating /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/build/RoboPipe/build/lib
+creating /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/build/RoboPipe/build/lib/RoboPipe
+copying RoboPipe/__init__.py -> /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/build/RoboPipe/build/lib/RoboPipe
+copying RoboPipe/hello_world.py -> /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/build/RoboPipe/build/lib/RoboPipe
+copying RoboPipe/random_move.py -> /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/build/RoboPipe/build/lib/RoboPipe
+copying RoboPipe/simple_subscriber.py -> /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/build/RoboPipe/build/lib/RoboPipe
+copying RoboPipe/move_arm.py -> /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/build/RoboPipe/build/lib/RoboPipe
+copying RoboPipe/z_sine.py -> /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/build/RoboPipe/build/lib/RoboPipe
+copying RoboPipe/load_arm.py -> /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/build/RoboPipe/build/lib/RoboPipe
+copying RoboPipe/arm_control.py -> /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/build/RoboPipe/build/lib/RoboPipe
+running install
+running install_lib
+creating /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/install/RoboPipe/lib/python3.10/site-packages/RoboPipe
+copying /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/build/RoboPipe/build/lib/RoboPipe/__init__.py -> /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/install/RoboPipe/lib/python3.10/site-packages/RoboPipe
+copying /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/build/RoboPipe/build/lib/RoboPipe/hello_world.py -> /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/install/RoboPipe/lib/python3.10/site-packages/RoboPipe
+copying /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/build/RoboPipe/build/lib/RoboPipe/random_move.py -> /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/install/RoboPipe/lib/python3.10/site-packages/RoboPipe
+copying /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/build/RoboPipe/build/lib/RoboPipe/simple_subscriber.py -> /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/install/RoboPipe/lib/python3.10/site-packages/RoboPipe
+copying /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/build/RoboPipe/build/lib/RoboPipe/move_arm.py -> /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/install/RoboPipe/lib/python3.10/site-packages/RoboPipe
+copying /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/build/RoboPipe/build/lib/RoboPipe/z_sine.py -> /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/install/RoboPipe/lib/python3.10/site-packages/RoboPipe
+copying /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/build/RoboPipe/build/lib/RoboPipe/load_arm.py -> /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/install/RoboPipe/lib/python3.10/site-packages/RoboPipe
+copying /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/build/RoboPipe/build/lib/RoboPipe/arm_control.py -> /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/install/RoboPipe/lib/python3.10/site-packages/RoboPipe
+byte-compiling /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/install/RoboPipe/lib/python3.10/site-packages/RoboPipe/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/install/RoboPipe/lib/python3.10/site-packages/RoboPipe/hello_world.py to hello_world.cpython-310.pyc
+byte-compiling /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/install/RoboPipe/lib/python3.10/site-packages/RoboPipe/random_move.py to random_move.cpython-310.pyc
+byte-compiling /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/install/RoboPipe/lib/python3.10/site-packages/RoboPipe/simple_subscriber.py to simple_subscriber.cpython-310.pyc
+byte-compiling /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/install/RoboPipe/lib/python3.10/site-packages/RoboPipe/move_arm.py to move_arm.cpython-310.pyc
+byte-compiling /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/install/RoboPipe/lib/python3.10/site-packages/RoboPipe/z_sine.py to z_sine.cpython-310.pyc
+byte-compiling /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/install/RoboPipe/lib/python3.10/site-packages/RoboPipe/load_arm.py to load_arm.cpython-310.pyc
+byte-compiling /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/install/RoboPipe/lib/python3.10/site-packages/RoboPipe/arm_control.py to arm_control.cpython-310.pyc
+running install_data
+creating /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/install/RoboPipe/share/ament_index
+creating /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/install/RoboPipe/share/ament_index/resource_index
+creating /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/install/RoboPipe/share/ament_index/resource_index/packages
+copying resource/RoboPipe -> /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/install/RoboPipe/share/ament_index/resource_index/packages
+copying package.xml -> /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/install/RoboPipe/share/RoboPipe
+running install_egg_info
+Copying build/RoboPipe/RoboPipe.egg-info to /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/install/RoboPipe/lib/python3.10/site-packages/RoboPipe-0.0.0-py3.10.egg-info
+running install_scripts
+Installing arm_control script to /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/install/RoboPipe/lib/RoboPipe
+Installing hello_world script to /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/install/RoboPipe/lib/RoboPipe
+Installing load_arm script to /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/install/RoboPipe/lib/RoboPipe
+Installing move_arm script to /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/install/RoboPipe/lib/RoboPipe
+Installing random_move script to /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/install/RoboPipe/lib/RoboPipe
+Installing simple_subscriber script to /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/install/RoboPipe/lib/RoboPipe
+Installing z_sine script to /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/install/RoboPipe/lib/RoboPipe
+writing list of installed files to '/home/the_hassan_shahzad/ros2_ws/src/RoboPipe/build/RoboPipe/install.log'

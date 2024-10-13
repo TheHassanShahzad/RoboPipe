@@ -1,0 +1,26 @@
+running egg_info
+writing build/RoboPipe/RoboPipe.egg-info/PKG-INFO
+writing dependency_links to build/RoboPipe/RoboPipe.egg-info/dependency_links.txt
+writing entry points to build/RoboPipe/RoboPipe.egg-info/entry_points.txt
+writing requirements to build/RoboPipe/RoboPipe.egg-info/requires.txt
+writing top-level names to build/RoboPipe/RoboPipe.egg-info/top_level.txt
+reading manifest file 'build/RoboPipe/RoboPipe.egg-info/SOURCES.txt'
+writing manifest file 'build/RoboPipe/RoboPipe.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data
+running install_egg_info
+removing '/home/the_hassan_shahzad/ros2_ws/src/RoboPipe/install/RoboPipe/lib/python3.10/site-packages/RoboPipe-0.0.0-py3.10.egg-info' (and everything under it)
+Copying build/RoboPipe/RoboPipe.egg-info to /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/install/RoboPipe/lib/python3.10/site-packages/RoboPipe-0.0.0-py3.10.egg-info
+running install_scripts
+Installing arm_control script to /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/install/RoboPipe/lib/RoboPipe
+Installing hello_world script to /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/install/RoboPipe/lib/RoboPipe
+Installing load_arm script to /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/install/RoboPipe/lib/RoboPipe
+Installing move_arm script to /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/install/RoboPipe/lib/RoboPipe
+Installing random_move script to /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/install/RoboPipe/lib/RoboPipe
+Installing simple_subscriber script to /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/install/RoboPipe/lib/RoboPipe
+Installing z_publisher script to /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/install/RoboPipe/lib/RoboPipe
+Installing z_sine script to /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/install/RoboPipe/lib/RoboPipe
+writing list of installed files to '/home/the_hassan_shahzad/ros2_ws/src/RoboPipe/build/RoboPipe/install.log'

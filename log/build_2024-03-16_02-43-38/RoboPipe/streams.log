@@ -1,0 +1,61 @@
+[0.601s] Invoking command in '/home/the_hassan_shahzad/ros2_ws/src/RoboPipe': PYTHONPATH=/home/the_hassan_shahzad/ros2_ws/src/RoboPipe/build/RoboPipe/prefix_override:/home/the_hassan_shahzad/ros2_ws/src/RoboPipe/install/RoboPipe/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/RoboPipe build --build-base /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/build/RoboPipe/build install --record /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/build/RoboPipe/install.log --single-version-externally-managed
+[0.780s] running egg_info
+[0.780s] creating build/RoboPipe/RoboPipe.egg-info
+[0.780s] writing build/RoboPipe/RoboPipe.egg-info/PKG-INFO
+[0.780s] writing dependency_links to build/RoboPipe/RoboPipe.egg-info/dependency_links.txt
+[0.780s] writing entry points to build/RoboPipe/RoboPipe.egg-info/entry_points.txt
+[0.780s] writing requirements to build/RoboPipe/RoboPipe.egg-info/requires.txt
+[0.781s] writing top-level names to build/RoboPipe/RoboPipe.egg-info/top_level.txt
+[0.781s] writing manifest file 'build/RoboPipe/RoboPipe.egg-info/SOURCES.txt'
+[0.782s] reading manifest file 'build/RoboPipe/RoboPipe.egg-info/SOURCES.txt'
+[0.782s] writing manifest file 'build/RoboPipe/RoboPipe.egg-info/SOURCES.txt'
+[0.782s] running build
+[0.782s] running build_py
+[0.782s] creating /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/build/RoboPipe/build
+[0.782s] creating /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/build/RoboPipe/build/lib
+[0.782s] creating /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/build/RoboPipe/build/lib/RoboPipe
+[0.782s] copying RoboPipe/__init__.py -> /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/build/RoboPipe/build/lib/RoboPipe
+[0.782s] copying RoboPipe/hello_world.py -> /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/build/RoboPipe/build/lib/RoboPipe
+[0.783s] copying RoboPipe/random_move.py -> /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/build/RoboPipe/build/lib/RoboPipe
+[0.783s] copying RoboPipe/simple_subscriber.py -> /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/build/RoboPipe/build/lib/RoboPipe
+[0.783s] copying RoboPipe/move_arm.py -> /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/build/RoboPipe/build/lib/RoboPipe
+[0.783s] copying RoboPipe/z_sine.py -> /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/build/RoboPipe/build/lib/RoboPipe
+[0.783s] copying RoboPipe/load_arm.py -> /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/build/RoboPipe/build/lib/RoboPipe
+[0.783s] copying RoboPipe/arm_control.py -> /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/build/RoboPipe/build/lib/RoboPipe
+[0.783s] running install
+[0.783s] running install_lib
+[0.783s] creating /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/install/RoboPipe/lib/python3.10/site-packages/RoboPipe
+[0.783s] copying /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/build/RoboPipe/build/lib/RoboPipe/__init__.py -> /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/install/RoboPipe/lib/python3.10/site-packages/RoboPipe
+[0.783s] copying /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/build/RoboPipe/build/lib/RoboPipe/hello_world.py -> /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/install/RoboPipe/lib/python3.10/site-packages/RoboPipe
+[0.783s] copying /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/build/RoboPipe/build/lib/RoboPipe/random_move.py -> /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/install/RoboPipe/lib/python3.10/site-packages/RoboPipe
+[0.783s] copying /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/build/RoboPipe/build/lib/RoboPipe/simple_subscriber.py -> /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/install/RoboPipe/lib/python3.10/site-packages/RoboPipe
+[0.783s] copying /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/build/RoboPipe/build/lib/RoboPipe/move_arm.py -> /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/install/RoboPipe/lib/python3.10/site-packages/RoboPipe
+[0.783s] copying /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/build/RoboPipe/build/lib/RoboPipe/z_sine.py -> /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/install/RoboPipe/lib/python3.10/site-packages/RoboPipe
+[0.783s] copying /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/build/RoboPipe/build/lib/RoboPipe/load_arm.py -> /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/install/RoboPipe/lib/python3.10/site-packages/RoboPipe
+[0.784s] copying /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/build/RoboPipe/build/lib/RoboPipe/arm_control.py -> /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/install/RoboPipe/lib/python3.10/site-packages/RoboPipe
+[0.784s] byte-compiling /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/install/RoboPipe/lib/python3.10/site-packages/RoboPipe/__init__.py to __init__.cpython-310.pyc
+[0.784s] byte-compiling /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/install/RoboPipe/lib/python3.10/site-packages/RoboPipe/hello_world.py to hello_world.cpython-310.pyc
+[0.784s] byte-compiling /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/install/RoboPipe/lib/python3.10/site-packages/RoboPipe/random_move.py to random_move.cpython-310.pyc
+[0.784s] byte-compiling /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/install/RoboPipe/lib/python3.10/site-packages/RoboPipe/simple_subscriber.py to simple_subscriber.cpython-310.pyc
+[0.784s] byte-compiling /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/install/RoboPipe/lib/python3.10/site-packages/RoboPipe/move_arm.py to move_arm.cpython-310.pyc
+[0.784s] byte-compiling /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/install/RoboPipe/lib/python3.10/site-packages/RoboPipe/z_sine.py to z_sine.cpython-310.pyc
+[0.785s] byte-compiling /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/install/RoboPipe/lib/python3.10/site-packages/RoboPipe/load_arm.py to load_arm.cpython-310.pyc
+[0.785s] byte-compiling /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/install/RoboPipe/lib/python3.10/site-packages/RoboPipe/arm_control.py to arm_control.cpython-310.pyc
+[0.785s] running install_data
+[0.785s] creating /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/install/RoboPipe/share/ament_index
+[0.785s] creating /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/install/RoboPipe/share/ament_index/resource_index
+[0.786s] creating /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/install/RoboPipe/share/ament_index/resource_index/packages
+[0.786s] copying resource/RoboPipe -> /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/install/RoboPipe/share/ament_index/resource_index/packages
+[0.786s] copying package.xml -> /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/install/RoboPipe/share/RoboPipe
+[0.786s] running install_egg_info
+[0.787s] Copying build/RoboPipe/RoboPipe.egg-info to /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/install/RoboPipe/lib/python3.10/site-packages/RoboPipe-0.0.0-py3.10.egg-info
+[0.787s] running install_scripts
+[0.800s] Installing arm_control script to /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/install/RoboPipe/lib/RoboPipe
+[0.800s] Installing hello_world script to /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/install/RoboPipe/lib/RoboPipe
+[0.801s] Installing load_arm script to /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/install/RoboPipe/lib/RoboPipe
+[0.801s] Installing move_arm script to /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/install/RoboPipe/lib/RoboPipe
+[0.801s] Installing random_move script to /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/install/RoboPipe/lib/RoboPipe
+[0.801s] Installing simple_subscriber script to /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/install/RoboPipe/lib/RoboPipe
+[0.801s] Installing z_sine script to /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/install/RoboPipe/lib/RoboPipe
+[0.801s] writing list of installed files to '/home/the_hassan_shahzad/ros2_ws/src/RoboPipe/build/RoboPipe/install.log'
+[0.816s] Invoked command in '/home/the_hassan_shahzad/ros2_ws/src/RoboPipe' returned '0': PYTHONPATH=/home/the_hassan_shahzad/ros2_ws/src/RoboPipe/build/RoboPipe/prefix_override:/home/the_hassan_shahzad/ros2_ws/src/RoboPipe/install/RoboPipe/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/RoboPipe build --build-base /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/build/RoboPipe/build install --record /home/the_hassan_shahzad/ros2_ws/src/RoboPipe/build/RoboPipe/install.log --single-version-externally-managed
